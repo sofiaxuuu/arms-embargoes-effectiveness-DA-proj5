@@ -43,12 +43,9 @@ Next, we look at another figure2, which is figure1 except China and Russia so we
 To take a closer look, notice that for the yellow line (Iraq), every time there is a high count of the arms embargo, the military expenditure drop, and vice versa - indicating that Iraq's military expenditure is highly influenced by arms embargo.  Looking into the data, i find that none of the arms embargo is targeted directly to Iraq, but it indirectly has a significant impact. 
 
 ## Business Answer 
-Our findings here show that trade embargoes, even if not directly targetted towards a country, are generally effective in reducing the worldwide military expenditure because the changes in histogram and changes in the number of embargoes mostly have an inverse relationship. 
+Our findings here show that trade embargoes, even if not directly targeted towards a country, is generally effective in reducing the worldwide military expenditure as shown in the inverse relationship between expenditure and count of embargoes. Some exception like China and Russia requires further analysis. Some countries like Iraq are more highly impacted by arms embargoes. 
 
-Some exception like China and Russia may have changes in military expenditure other than the number of trade embargoes and requires further analysis. Some countries like Iraq are more highly impacted by the number of trade embargoes. 
-
-With these findings, the targetted stakeholder of our analysis - The United Nations - could better decide if they want to impose an arms embargo based on its effectiveness on different countries. UN is our stakeholder because of its goal to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations. 
-
+With these findings, our targeted stakeholder of our analysis - The United Nations - could better decide if they want to impose an arms embargo based on its effectiveness on different countries.
 
 # Data Analysis Steps Description 
 Google Colaboratory notebook with analysis available here: [Open In Colab](https://colab.research.google.com/drive/1Mix73NaJx25IoKyW1owFaKrPeOkagu8O?usp=sharing)
