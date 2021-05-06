@@ -43,9 +43,9 @@ Next, we look at another figure2, which is figure1 except China and Russia so we
 To take a closer look, notice that for the yellow line (Iraq), every time there is a high count of the arms embargo, the military expenditure drop, and vice versa - indicating that Iraq's military expenditure is highly influenced by arms embargo.  Looking into the data, i find that none of the arms embargo is targeted directly to Iraq, but it indirectly has a significant impact. 
 
 ## Business Answer 
-Our findings here show that trade embargoes, even if not directly targeted towards a country, is generally effective in reducing the worldwide military expenditure as shown in the inverse relationship between expenditure and count of embargoes. Some exception like China and Russia requires further analysis. Some countries like Iraq are more highly impacted by arms embargoes. 
+Our findings here show that trade embargoes, as a way to dissuade countries from engaging in aggressive practices is generally effective, as shown in the inverse relationship between expenditure and count of embargoes. Yet most of the impact is relatively short-term. The effectiveness of embargoes is mixed - some countries like Iraq are more highly impacted by arms embargoes while some others are not. 
 
-With these findings, our targeted stakeholder of our analysis - The United Nations - could better decide if they want to impose an arms embargo based on its effectiveness on different countries.
+With these findings, our targeted stakeholder of our analysis - The United Nations - could better decide if they want to impose a arms embargo based on its effectiveness on different countries.
 
 # Data Analysis Steps Description 
 Google Colaboratory notebook with analysis available here: [Open In Colab](https://colab.research.google.com/drive/1Mix73NaJx25IoKyW1owFaKrPeOkagu8O?usp=sharing)
