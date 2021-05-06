@@ -47,7 +47,7 @@ With these findings, our targetted stakeholder of our analysis - The United Nati
 
 
 # Data Analysis Steps Description 
-Google Colaboratory notebook with analysis available here: [![Open In Colab](https://colab.research.google.com/drive/1Mix73NaJx25IoKyW1owFaKrPeOkagu8O?usp=sharing)
+Google Colaboratory notebook with analysis available here: [Open In Colab](https://colab.research.google.com/drive/1Mix73NaJx25IoKyW1owFaKrPeOkagu8O?usp=sharing)
 
 1. Import Libraries 
 2. Import datasets 
